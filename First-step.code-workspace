@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../First-step"
+		},
+		{
+			"path": "../pws"
+		},
+		{
+			"path": "../rockpaperscissor"
+		},
+		{
+			"path": "../javascript-amazon-project-main"
+		},
+		{
+			"path": "../react"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "First-step"
+	}
+}
